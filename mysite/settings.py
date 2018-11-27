@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '0l)cv3vq(h&pl1@!(=xazz56%m49*@zx5*ndwh^(bqg-x_@jyi'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 # add info to the allowed hosts line to allow it to access pythonanywhere
 ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
